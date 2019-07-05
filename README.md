@@ -27,4 +27,4 @@
 
 
 ### 常见CRC参数模型：
-![常见CRC参数模型](https://raw.githubusercontent.com/damonlear/CRC16/master/img/crc16.png)
+![常见CRC参数模型](https://raw.githubusercontent.com/damonlear/CRC16-CCITT/master/img/crc16.png)
