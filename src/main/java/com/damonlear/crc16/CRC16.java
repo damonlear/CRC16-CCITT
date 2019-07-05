@@ -1,4 +1,4 @@
-package com.damonleexh.crc16;
+package com.damonlear.crc16;
 
 /**
  * CRC16
