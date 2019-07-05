@@ -28,3 +28,20 @@
 
 ### 常见CRC参数模型：
 ![常见CRC参数模型](https://raw.githubusercontent.com/damonlear/CRC16-CCITT/master/img/crc16.png)
+
+### JAVA-依赖使用 How to Use：
+
+Step 1. Add the JitPack repository to your build file
+
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+Step 2. Add the dependency
+
+    dependencies {
+	        implementation 'com.github.damonlear:CRC16-CCITT:1.0.0'
+	}
